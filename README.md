@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## WELCOME TO NAHUATL COMPILER 
 
-You can use the [editor on GitHub](https://github.com/JoseKabo/JKSCompilerProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Compilador completo hecho con palabras reservadas en lengua indigena Nahuatl para publico especifico.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
